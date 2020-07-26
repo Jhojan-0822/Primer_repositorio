@@ -14,4 +14,4 @@ mejorar el acceso a  la institución con  el número de identificación y huella
 
 tener un registro exacto de los estudiantes y el personal que ingresa a la institución. 
 
-mejorar la seguridad de los estudiantes 
+mejorar la seguridad de los estudiantes y del personal
